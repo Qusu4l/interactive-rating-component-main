@@ -742,6 +742,10 @@ video {
   color: rgb(103 232 249 / var(--tw-text-opacity));
 }
 
+.text-\[cyan-300\]{
+  color: cyan-300;
+}
+
 .transition-colors{
   transition-property: color, background-color, border-color, text-decoration-color, fill, stroke;
   transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
